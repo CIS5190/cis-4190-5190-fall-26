@@ -4,9 +4,13 @@ Public repository of student-facing course materials.
 
 ## Homework
 
-| | Points |
-|---|---|
-| [HW0](hw0/) | 65 (50 autograded + 15 written) |
+| | Written | Coding | Points |
+|---|---|---|---|
+| HW0 | [hw0.pdf](hw0/hw0.pdf) | [hw0_skeleton.ipynb](hw0/hw0_skeleton.ipynb) | 78 written + 65 coding |
+
+The written and coding halves are graded **separately**, and each is
+all-or-nothing at a 50% threshold: answer more than 50% of a half correctly and
+you receive full credit for that half.
 
 **Deadlines are on the [course schedule](https://www.engineering.upenn.edu/~cis5190/fall2026/schedule.html)
 and in Gradescope** — those are authoritative, and deliberately not repeated here.
